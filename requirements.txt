@@ -1,1 +1,6 @@
 jupyter
+pandas
+numpy < 2.0
+scikit-learn
+scikit-surprise
+matplotlib
